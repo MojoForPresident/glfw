@@ -86,3 +86,4 @@ tests/windows
 # Added by Moritz
 bin/
 bin-int/
+out/
